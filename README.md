@@ -12,8 +12,7 @@ I specialize in building robust web applications and transforming data into acti
 - 👯 I’m looking to collaborate on projects that involve full-stack PHP/Laravel development or data-driven decision-making
 - 💬 Ask me about data modeling, database design, or anything Laravel-related
 - 📫 How to reach me: yungstarry@yahoo.com
-- 🌐 Visit my portfolio: https://azeezisrael.vercel.app/
-- 😄 Pronouns: He/Him
+
 
 ---
 
