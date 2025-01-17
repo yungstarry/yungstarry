@@ -1,14 +1,14 @@
-Hi there 👋, I'm Adordev
-🔧 Data Analyst & PHP/Laravel Developer: I specialize in turning data into insights that drive decision-making, with a strong foundation in PHP/Laravel for web development. My core passion is data analysis, where I use technology to uncover trends, patterns, and opportunities.
+# Hi there 👋, I'm Adordev
+🔧 **Data Analyst & PHP/Laravel Developer** : I specialize in turning data into insights that drive decision-making, with a strong foundation in PHP/Laravel for web development. My core passion is data analysis, where I use technology to uncover trends, patterns, and opportunities.
 
-About Me
-🔭 I'm focusing on data analysis, leveraging my skills to provide real-time insights in applications.
-🌱 I'm deepening my expertise in data visualization with tools like Tableau and Power BI. My recent project on T20 World Cup Player Performance demonstrates my ability to analyze and present complex data in an accessible format.
-👯 I'm looking to collaborate on projects where data analysis is at the forefront. Whether it's optimizing data workflows, enhancing decision-making processes, or integrating analytics into systems, I'm all in.
-💬 Ask me about strategies for data modeling, effective database design for analytics, or how to structure data for maximum analytical impact.
-📫 How to reach me: stazgist@gmail.com.
+## About Me
+- 🔭 I'm focusing on data analysis, leveraging my skills to provide real-time insights in applications.
+- 🌱 I'm deepening my expertise in data visualization with tools like Tableau and Power BI. My recent project on T20 World Cup Player Performance demonstrates my ability to analyze and present complex data in an       accessible format.
+- 👯 I'm looking to collaborate on projects where data analysis is at the forefront. Whether it's optimizing data workflows, enhancing decision-making processes, or integrating analytics into systems, I'm all in.
+- 💬 Ask me about strategies for data modeling, effective database design for analytics, or how to structure data for maximum analytical impact.
+-  📫 How to reach me: stazgist@gmail.com.
 
-My career is driven by the belief that data, when analyzed correctly, can tell stories that lead to innovation and improved outcomes.
+`My career is driven by the belief that data, when analyzed correctly, can tell stories that lead to innovation and improved outcomes.`
 
 
 ---
