@@ -1,17 +1,14 @@
-# Hi there 👋, I'm Adordev
+Hi there 👋, I'm Adordev
+🔧 Data Analyst & PHP/Laravel Developer: I specialize in turning data into insights that drive decision-making, with a strong foundation in PHP/Laravel for web development. My core passion is data analysis, where I use technology to uncover trends, patterns, and opportunities.
 
-🔧 **PHP/Laravel Developer & Data Analyst**  
-I specialize in building robust web applications and transforming data into actionable insights. My passion lies at the intersection of software development and data analytics, where I leverage modern technologies to create impactful solutions.
+About Me
+🔭 I'm focusing on data analysis, leveraging my skills to provide real-time insights in applications.
+🌱 I'm deepening my expertise in data visualization with tools like Tableau and Power BI. My recent project on T20 World Cup Player Performance demonstrates my ability to analyze and present complex data in an accessible format.
+👯 I'm looking to collaborate on projects where data analysis is at the forefront. Whether it's optimizing data workflows, enhancing decision-making processes, or integrating analytics into systems, I'm all in.
+💬 Ask me about strategies for data modeling, effective database design for analytics, or how to structure data for maximum analytical impact.
+📫 How to reach me: stazgist@gmail.com.
 
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on Laravel Livewire App
-- 🌱 I’m learning advanced data visualization techniques in Tableau and Power BI
-- 👯 I’m looking to collaborate on projects that involve full-stack PHP/Laravel development or data-driven decision-making
-- 💬 Ask me about data modeling, database design, or anything Laravel-related
-- 📫 How to reach me: yungstarry@yahoo.com
+My career is driven by the belief that data, when analyzed correctly, can tell stories that lead to innovation and improved outcomes.
 
 
 ---
