@@ -5,7 +5,7 @@
 - 🔭 I'm focusing on data analysis, leveraging my skills to provide real-time insights in applications.
 - 🌱 I'm deepening my expertise in data visualization with tools like Tableau and Power BI. My recent project on T20 World Cup Player Performance demonstrates my ability to analyze and present complex data in an       accessible format.
 - 👯 I'm looking to collaborate on projects where data analysis is at the forefront. Whether it's optimizing data workflows, enhancing decision-making processes, or integrating analytics into systems, I'm all in.
-- 💬 Ask me about strategies for data modeling, effective database design for analytics, or how to structure data for maximum analytical impact.
+- 💬 Ask me about strategies for data modeling, effective database design for analytics, or how to structure data for maximum analytical impact..
 -  📫 How to reach me: stazgist@gmail.com.
 
 `My career is driven by the belief that data, when analyzed correctly, can tell stories that lead to innovation and improved outcomes.`
