@@ -1,12 +1,17 @@
 # Hi there 👋, I'm Adordev
-🔧 **Data Analyst & PHP/Laravel Developer** : I specialize in turning data into insights that drive decision-making, with a strong foundation in PHP/Laravel for web development. My core passion is data analysis, where I use technology to uncover trends, patterns, and opportunities.
+
+📊 **Data Analyst **
+
+I specialize in extracting meaningful insights from data to inform smarter decisions. While I have a strong foundation in PHP/Laravel, my core passion lies in **data analysis**—using tools and techniques to uncover trends, patterns, and opportunities that matter.
 
 ## About Me
-- 🔭 I'm focusing on data analysis, leveraging my skills to provide real-time insights in applications.
-- 🌱 I'm deepening my expertise in data visualization with tools like Tableau and Power BI. My recent project on T20 World Cup Player Performance demonstrates my ability to analyze and present complex data in an       accessible format.
-- 👯 I'm looking to collaborate on projects where data analysis is at the forefront. Whether it's optimizing data workflows, enhancing decision-making processes, or integrating analytics into systems, I'm all in.
-- 💬 Ask me about strategies for data modeling, effective database design for analytics, or how to structure data for maximum analytical impact..
--  📫 How to reach me: stazgist@gmail.com.
+
+- 🔍 Currently focused on **data analysis and visualization**, delivering real-time insights through dashboards and reports.  
+- 📈 Strengthening my skills in **Tableau** and **Power BI**. A recent project on *T20 World Cup Player Performance* showcases my ability to turn raw data into compelling visual stories.  
+- 🤝 Open to collaborations where **data drives the mission**—whether it’s workflow optimization, data-driven product design, or integrated analytics.  
+- 🧠 Ask me about **data modeling**, **designing analytics-ready databases**, or **structuring datasets for impactful analysis**.  
+- 📬 Reach out: **stazgist@gmail.com**
+
 
 `My career is driven by the belief that data, when analyzed correctly, can tell stories that lead to innovation and improved outcomes.`
 
