@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Adordev
 
-📊 **Data Analyst **
+📊 **Data Analyst**
 
 I specialize in extracting meaningful insights from data to inform smarter decisions. While I have a strong foundation in PHP/Laravel, my core passion lies in **data analysis**—using tools and techniques to uncover trends, patterns, and opportunities that matter.
 
